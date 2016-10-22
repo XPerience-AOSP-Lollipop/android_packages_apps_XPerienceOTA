@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">正在检查...</string>
   <string name="check_for_updates">检查更新</string>
   <string name="no_additional_info">无附加信息</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">发现ROM更新!</string>
   <string name="gapps_new_version">发现GAPPS更新!</string>
   <string name="no_updates">未发现系统更新</string>
-  <string name="system_update_found">发现系统更新并准备下载.\n请检查可能出现的通知. 他们会引导你至ParanoidOTA下载并/或安装更新.\n\n发现更新:\n%1$s</string>
+  <string name="system_update_found">发现系统更新并准备下载.\n请检查可能出现的通知. 他们会引导你至XPerienceOTA下载并/或安装更新.\n\n发现更新:\n%1$s</string>
   <string name="system_title">系统信息</string>
   <string name="system_rom">ROM 版本: %1$s</string>
   <string name="system_gapps">GAPPS 版本: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">更新检查频率</string>
   <string name="settings_checktime_summary">指定每次更新检查的时间</string>
   <string name="settings_checkgapps_title">检查GAPPS</string>
-  <string name="settings_checkgapps_summary">检查PA指定的GAPPS</string>
+  <string name="settings_checkgapps_summary">检查XPe指定的GAPPS</string>
   <string name="settings_gappstype_title">GAPPS版本类型</string>
   <string name="settings_gappstype_summary">在 Full, Mini, Micro, Stock GAPPS 中选择</string>
   <string name="gapps_type_full">Full GAPPS</string>

@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">Tikrinama...</string>
   <string name="check_for_updates">Tikrinti</string>
   <string name="no_additional_info">Nėra papildomos informacijos</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">Rastas ROM atnaujinimas!</string>
   <string name="gapps_new_version">Rastas Google programėlių atnaujinimas!</string>
   <string name="no_updates">Sistemos atnaujinimų nėra</string>
-  <string name="system_update_found">Rastas sistemos atnaujinimas paruoštas atsisiuntimui.\nPrašome patikrinti atsiradusius pranešimus. Jie nuves Jus į ParanoidOTA kur galėsite atsisiųsti ir/arba įdiegti atnaujinimus.\n\nRasti atnaujinimai:\n%1$s</string>
+  <string name="system_update_found">Rastas sistemos atnaujinimas paruoštas atsisiuntimui.\nPrašome patikrinti atsiradusius pranešimus. Jie nuves Jus į XPerienceOTA kur galėsite atsisiųsti ir/arba įdiegti atnaujinimus.\n\nRasti atnaujinimai:\n%1$s</string>
   <string name="system_title">Sistemos informacija</string>
   <string name="system_rom">ROM versija: %1$s</string>
   <string name="system_gapps">Google programėlių versija: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">Atnaujinimo paieškos dažnis</string>
   <string name="settings_checktime_summary">Nurodyti laiką tarp atnaujinimų paieškos</string>
   <string name="settings_checkgapps_title">Ieškoti Google apps\'ų</string>
-  <string name="settings_checkgapps_summary">Ieškoti taip pat spec. PA Google apps\'ų</string>
+  <string name="settings_checkgapps_summary">Ieškoti taip pat spec. XPe Google apps\'ų</string>
   <string name="settings_gappstype_title">Google apps\'ų tipas</string>
   <string name="settings_gappstype_summary">Pasirink pilną, mini, micro ar įprastinį gapps\'ų paketą</string>
   <string name="gapps_type_full">Pilnas paketas</string>

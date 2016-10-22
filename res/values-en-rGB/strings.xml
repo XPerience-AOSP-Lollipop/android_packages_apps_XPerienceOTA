@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">Checking...</string>
   <string name="check_for_updates">Check</string>
   <string name="no_additional_info">No additional information</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">New ROM update found!</string>
   <string name="gapps_new_version">New Google apps update found!</string>
   <string name="no_updates">No system updates found</string>
-  <string name="system_update_found">A new system update was found and is ready to download.\nPlease check the notifications that may have appeared. They will lead you to ParanoidOTA from where you will be able to download and/or install the update.\n\nUpdate(s) found:\n%1$s</string>
+  <string name="system_update_found">A new system update was found and is ready to download.\nPlease check the notifications that may have appeared. They will lead you to XPerienceOTA from where you will be able to download and/or install the update.\n\nUpdate(s) found:\n%1$s</string>
   <string name="system_title">System info</string>
   <string name="system_rom">ROM version: %1$s</string>
   <string name="system_gapps">Google apps version: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">Update check frequency</string>
   <string name="settings_checktime_summary">Specify the time between each update check</string>
   <string name="settings_checkgapps_title">Check for Google apps</string>
-  <string name="settings_checkgapps_summary">Check also for PA specific Google apps</string>
+  <string name="settings_checkgapps_summary">Check also for XPe specific Google apps</string>
   <string name="settings_gappstype_title">Google apps type</string>
   <string name="settings_gappstype_summary">Choose between full, mini, micro and stock gapps package</string>
   <string name="gapps_type_full">Full package</string>

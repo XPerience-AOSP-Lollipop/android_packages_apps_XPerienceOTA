@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">Ellenőrzés folyamatban...</string>
   <string name="check_for_updates">Ellenőrzés</string>
   <string name="no_additional_info">Nincs további információ</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">Új ROM frissítés érhető el!</string>
   <string name="gapps_new_version">Új Google Apps frissítés érhető el!</string>
   <string name="no_updates">Nincs elérhető rendszer frissítés</string>
-  <string name="system_update_found">Egy új rendszer frissítés érhető el és készen áll a letöltésre.\nEllenőrizze a megjelent értesítéseket. Az értesítés a ParanoidOTA alkalmazáshoz vezet, ahol le tudja tölteni és/vagy telepíteni a frissítést.\n\nElérhető frissítések:\n%1$s</string>
+  <string name="system_update_found">Egy új rendszer frissítés érhető el és készen áll a letöltésre.\nEllenőrizze a megjelent értesítéseket. Az értesítés a XPerienceOTA alkalmazáshoz vezet, ahol le tudja tölteni és/vagy telepíteni a frissítést.\n\nElérhető frissítések:\n%1$s</string>
   <string name="system_title">Rendszer információ</string>
   <string name="system_rom">ROM verziója: %1$s</string>
   <string name="system_gapps">Google Apps verziója: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">Frissítés ellenőrzés gyakorisága</string>
   <string name="settings_checktime_summary">Adja meg a az ellenőrzések gyakoriságát</string>
   <string name="settings_checkgapps_title">Google Apps frissítés ellenőrzése</string>
-  <string name="settings_checkgapps_summary">Ellenőrizze a ParanoidAndroid-hoz tartozó Google Apps frissítéseket is</string>
+  <string name="settings_checkgapps_summary">Ellenőrizze a XPe-hoz tartozó Google Apps frissítéseket is</string>
   <string name="settings_gappstype_title">Google Apps típus</string>
   <string name="settings_gappstype_summary">Válasszon teljes, mini, mikro és gyári Google Apps csomag között</string>
   <string name="gapps_type_full">Teljes csomag</string>

@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">Извършва се проверка...</string>
   <string name="check_for_updates">Проверете</string>
   <string name="no_additional_info">Няма допълнителна информация</string>
@@ -30,7 +30,7 @@
   <string name="rom_new_version">Има нова версия на ROM-a!</string>
   <string name="gapps_new_version">Има нова версия на Google Apps!</string>
   <string name="no_updates">Няма по-нова версия</string>
-  <string name="system_update_found">Намерена е актуализация и е готова за сваляне.\nМоля проверете за известия в лентата. Те ще ви отведат до ParanoidOTA, откъдето ще можете да се сдобиете с най-новата версия!\n\nНамерена(и) актуализация(и)\n%1$s</string>
+  <string name="system_update_found">Намерена е актуализация и е готова за сваляне.\nМоля проверете за известия в лентата. Те ще ви отведат до XPerienceOTA, откъдето ще можете да се сдобиете с най-новата версия!\n\nНамерена(и) актуализация(и)\n%1$s</string>
   <string name="system_title">Информация за системата</string>
   <string name="system_rom">ROM версия: %1$s</string>
   <string name="system_gapps">Google apps версия: %1$s %2$s</string>
@@ -110,7 +110,7 @@
   <string name="settings_checktime_title">Честота на проверка за актуализации</string>
   <string name="settings_checktime_summary">Задайте времето между всяка проверка за актуализации</string>
   <string name="settings_checkgapps_title">Проверка за Google apps</string>
-  <string name="settings_checkgapps_summary">Проверете също така за PA-специфични Google apps</string>
+  <string name="settings_checkgapps_summary">Проверете също така за XPe-специфични Google apps</string>
   <string name="settings_gappstype_title">Тип на Google Apps</string>
   <string name="settings_gappstype_summary">Изберете пакет на Google apps - пълен, мини, микро или основен</string>
   <string name="gapps_type_full">Пълен пакет</string>

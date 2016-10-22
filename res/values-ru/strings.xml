@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Обновление Paranoid</string>
+  <string name="app_name">Обновление XPerience</string>
   <string name="title_checking">Проверка...</string>
   <string name="check_for_updates">Проверить</string>
   <string name="no_additional_info">Дополнительной информации нет</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">Доступно обновление прошивки!</string>
   <string name="gapps_new_version">Доступно обновление приложений Google!</string>
   <string name="no_updates">Обновления системы не найдены</string>
-  <string name="system_update_found">Найдены новые системные обновления, доступные для загрузки.\nПожалуйста, проверьте появившиеся уведомления. Они проведут Вас в программу обновлений Paranoid, с помощью которой можно скачать и/или установить обновления.\n\nНайденные обновления:\n%1$s</string>
+  <string name="system_update_found">Найдены новые системные обновления, доступные для загрузки.\nПожалуйста, проверьте появившиеся уведомления. Они проведут Вас в программу обновлений XPerience, с помощью которой можно скачать и/или установить обновления.\n\nНайденные обновления:\n%1$s</string>
   <string name="system_title">Сведения о системе</string>
   <string name="system_rom">Версия прошивки: %1$s</string>
   <string name="system_gapps">Версия приложений Google: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">Частота проверки обновлений</string>
   <string name="settings_checktime_summary">Выберите интервал между каждой проверкой</string>
   <string name="settings_checkgapps_title">Проверка приложений Google</string>
-  <string name="settings_checkgapps_summary">Также следить за характерными PA приложениями Google</string>
+  <string name="settings_checkgapps_summary">Также следить за характерными XPe приложениями Google</string>
   <string name="settings_gappstype_title">Тип приложений Google</string>
   <string name="settings_gappstype_summary">Выберите необходимый пакет приложений Google</string>
   <string name="gapps_type_full">Пакет Full</string>

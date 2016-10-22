@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">Controleren...</string>
   <string name="check_for_updates">Controleer</string>
   <string name="no_additional_info">Geen aanvullende informatie</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">Nieuwe ROM update gevonden!</string>
   <string name="gapps_new_version">Nieuwe Google apps update gevonden!</string>
   <string name="no_updates">Geen systeemupdates gevonden</string>
-  <string name="system_update_found">Een nieuwe systeemupdate is gevonden en is klaar om te downloaden.\nControleer de meldingen die mogelijk zijn verschenen. Deze zullen u leiden naar ParanoidOTA, vanwaar u de mogelijkheid krijgt voor het downloaden en/of installeren van de update.\n\nUpdate(s) gevonden:\n%1$s</string>
+  <string name="system_update_found">Een nieuwe systeemupdate is gevonden en is klaar om te downloaden.\nControleer de meldingen die mogelijk zijn verschenen. Deze zullen u leiden naar XPerienceOTA, vanwaar u de mogelijkheid krijgt voor het downloaden en/of installeren van de update.\n\nUpdate(s) gevonden:\n%1$s</string>
   <string name="system_title">Systeeminformatie</string>
   <string name="system_rom">ROM versie: %1$s</string>
   <string name="system_gapps">Google apps versie: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">Update controle frequentie</string>
   <string name="settings_checktime_summary">Geef de tijd tussen elke update controle</string>
   <string name="settings_checkgapps_title">Controleer voor Google apps</string>
-  <string name="settings_checkgapps_summary">Controleer ook voor PA specifieke Google apps</string>
+  <string name="settings_checkgapps_summary">Controleer ook voor XPe specifieke Google apps</string>
   <string name="settings_gappstype_title">Google apps type</string>
   <string name="settings_gappstype_summary">Kies tussen volledige, mini, micro en standaard gapps pakket</string>
   <string name="gapps_type_full">Volledig pakket</string>

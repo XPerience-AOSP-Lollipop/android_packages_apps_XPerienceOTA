@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">Menyemak...</string>
   <string name="check_for_updates">Semak</string>
   <string name="no_additional_info">Tiada maklumat tambahan</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">Kemaskini ROM baru ditemui!</string>
   <string name="gapps_new_version">Aplikasi Google yang baru ditemui!</string>
   <string name="no_updates">Tiada kemaskini  terhadap sistem ditemui</string>
-  <string name="system_update_found">Kemaskini terhapadap sistem baru ditemui dan sedia untuk di muat turun.\nSila semak notifikasi yang mungkin akan datang. Ia akan membawa anda kepada aplikasi Paranoid OTA dimana abda boleh muat turun mengemaskini.\n\nKemaskini ditemui:\n%1$s</string>
+  <string name="system_update_found">Kemaskini terhapadap sistem baru ditemui dan sedia untuk di muat turun.\nSila semak notifikasi yang mungkin akan datang. Ia akan membawa anda kepada aplikasi XPerience OTA dimana abda boleh muat turun mengemaskini.\n\nKemaskini ditemui:\n%1$s</string>
   <string name="system_title">Info sistem</string>
   <string name="system_rom">Versi ROM: %1$s</string>
   <string name="system_gapps">Versi aplikasi Google: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">Kekerapan kemaskini disemak</string>
   <string name="settings_checktime_summary">Tentukan masa antara setiap kemaskini untuk disemak</string>
   <string name="settings_checkgapps_title">Semak untuk aplikasi Google</string>
-  <string name="settings_checkgapps_summary">Semak juga untuk aplikasi Google yang dikhaskan untuk PA</string>
+  <string name="settings_checkgapps_summary">Semak juga untuk aplikasi Google yang dikhaskan untuk XPe</string>
   <string name="settings_gappstype_title">Jenis aplikasi Google</string>
   <string name="settings_gappstype_summary">Sila pilih antara full, mini, micro atau stock untuk aplikasi Google</string>
   <string name="gapps_type_full">Pekej Full</string>

@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">Preverjam...</string>
   <string name="check_for_updates">Preveri</string>
   <string name="no_additional_info">Ni dodatnih informacij</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">Nova posodobitev ROM-a je bila najdena!</string>
   <string name="gapps_new_version">Nova posodobitev Googlovih aplikacij je bila najdena!</string>
   <string name="no_updates">Ni novih posodobitev</string>
-  <string name="system_update_found">Nova posodobitev sistema je na voljo in je pripravljena za prenos.\n Prosimo preveri opozorila, ki se bodo prikazala. Le ta te bodo vodila v ParanoidOTA, kjer boš lahko prenesel in nasnel posodobitve.\n\n
+  <string name="system_update_found">Nova posodobitev sistema je na voljo in je pripravljena za prenos.\n Prosimo preveri opozorila, ki se bodo prikazala. Le ta te bodo vodila v XPerienceOTA, kjer boš lahko prenesel in nasnel posodobitve.\n\n
 Število najdenih posodobitev:\n%1$s</string>
   <string name="system_title">Sistemske informacije</string>
   <string name="system_rom">Verzija ROM-a:%1$s</string>
@@ -115,7 +115,7 @@
   <string name="settings_checktime_title">Pogostost preverjanja posodobitev</string>
   <string name="settings_checktime_summary">Določi čas med preverjanji za posodobitve</string>
   <string name="settings_checkgapps_title">Preveri Googlove aplikacije</string>
-  <string name="settings_checkgapps_summary">Preverite tudi za posebne PA Googlove aplikacije</string>
+  <string name="settings_checkgapps_summary">Preverite tudi za posebne XPe Googlove aplikacije</string>
   <string name="settings_gappstype_title">Tipi Googlovih aplikacij</string>
   <string name="settings_gappstype_summary">Izberi med polnimi, mini, mikro in stock Google aplikacijami</string>
   <string name="gapps_type_full">Polni paket</string>

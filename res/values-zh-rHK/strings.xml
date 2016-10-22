@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">正在檢查</string>
   <string name="check_for_updates">檢查</string>
   <string name="no_additional_info">沒有額外資訊</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">發現 ROM 的更新！</string>
   <string name="gapps_new_version">發現新的 Google 應用程式更新！</string>
   <string name="no_updates">沒有發現系統更新</string>
-  <string name="system_update_found">發現系統更新，並準備下載。\n請檢查通知可能已經出現，將會引導您到 ParanoidOTA 下載 並/或 安裝更新。\n\n發現系統更新：\n%1$s</string>
+  <string name="system_update_found">發現系統更新，並準備下載。\n請檢查通知可能已經出現，將會引導您到 XPerienceOTA 下載 並/或 安裝更新。\n\n發現系統更新：\n%1$s</string>
   <string name="system_title">系統資訊</string>
   <string name="system_rom">ROM 版本：%1$s</string>
   <string name="system_gapps">Google 應用程式版本：%1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">更新檢查頻率</string>
   <string name="settings_checktime_summary">指定每次更新檢查間隔</string>
   <string name="settings_checkgapps_title">檢查 Google 應用程式</string>
-  <string name="settings_checkgapps_summary">檢查 PA 特定的 Google 應用程式</string>
+  <string name="settings_checkgapps_summary">檢查 XPe 特定的 Google 應用程式</string>
   <string name="settings_gappstype_title">Google 應用程式類型</string>
   <string name="settings_gappstype_summary">請選擇完整、小型、微型或基本的 Google 應用程式</string>
   <string name="gapps_type_full">完整套件</string>

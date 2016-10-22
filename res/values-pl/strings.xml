@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">Sprawdzam...</string>
   <string name="check_for_updates">Sprawdź</string>
   <string name="no_additional_info">Brak dodatkowych informacji</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">Znaleziono nową aktualizacje ROMu!</string>
   <string name="gapps_new_version">Znaleziono aktualizację Google Apps!</string>
   <string name="no_updates">Brak aktualizacji systemu</string>
-  <string name="system_update_found">Nowa aktualizacja jest gotowa do pobrania.\nSprawdź nowe powiadomienia. Przekierują cie one do ParanoidOTA dzięki której będziesz mógł pobrać i/lub zainstalować aktualizacje.\n\nAktualizacja(e) znaleziona(e):\n%1$s</string>
+  <string name="system_update_found">Nowa aktualizacja jest gotowa do pobrania.\nSprawdź nowe powiadomienia. Przekierują cie one do XPerienceOTA dzięki której będziesz mógł pobrać i/lub zainstalować aktualizacje.\n\nAktualizacja(e) znaleziona(e):\n%1$s</string>
   <string name="system_title">Informacje o systemie</string>
   <string name="system_rom">Wersja ROMu: %1$s</string>
   <string name="system_gapps">Wersja Google Apps: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">Częstotliwość sprawdzania aktualizacji</string>
   <string name="settings_checktime_summary">Określ co ile czasu będzie sprawdzana dostępność aktualizacji</string>
   <string name="settings_checkgapps_title">Aktualizacje Google Apps</string>
-  <string name="settings_checkgapps_summary">Sprawdzaj aktualizacje Google Apps od Paranoid Android</string>
+  <string name="settings_checkgapps_summary">Sprawdzaj aktualizacje Google Apps od XPerience</string>
   <string name="settings_gappstype_title">Rodzaj Google Apps</string>
   <string name="settings_gappstype_summary">Wybór pomiędzy paczką pełną, mini, mikro lub domyślną</string>
   <string name="gapps_type_full">Pełna paczka</string>

@@ -3,20 +3,20 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
   <string name="app_name">पारानाईड साफ्टवेयर कि अप्डेट </string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">नए ROM अद्यतन पाया!</string>
   <string name="gapps_new_version">नई Google apps अद्यतन पाया!</string>
   <string name="no_updates">आपके लिए कोई अपडेट नही है</string>
-  <string name="system_update_found">एक नया अभी तक का सिस्टम पाया था और उपलब्ध है दोव्न्लोअद के लिए ।\n हो सकता है कि सूचनाए प्रकट हुई हो, जाँच करें. वे तुम्हें अपडेट डाउनलोड और / या स्थापित करने में सक्षम हो जाएगा, जहां से आप ParanoidOTA में पोहोच जाओगे।\n\n अपडेट(स) मिले:\n%1$s</string>
+  <string name="system_update_found">एक नया अभी तक का सिस्टम पाया था और उपलब्ध है दोव्न्लोअद के लिए ।\n हो सकता है कि सूचनाए प्रकट हुई हो, जाँच करें. वे तुम्हें अपडेट डाउनलोड और / या स्थापित करने में सक्षम हो जाएगा, जहां से आप XPerienceOTA में पोहोच जाओगे।\n\n अपडेट(स) मिले:\n%1$s</string>
   <string name="system_title">सिस्टम जानकारी</string>
   <string name="system_rom">ROM संस्करण: %1$s</string>
   <string name="system_gapps">Google apps संस्करण: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">अपडेट जांच आवृत्ति</string>
   <string name="settings_checktime_summary">प्रत्येक अद्यतन चेक के बीच समय निर्दिष्ट करें</string>
   <string name="settings_checkgapps_title">Google apps के लिए जाँच करें</string>
-  <string name="settings_checkgapps_summary">इसके अलावा पीए विशिष्ट Google apps के लिए जाँच करें</string>
+  <string name="settings_checkgapps_summary">इसके अलावा XPe-विशिष्ट Google Apps के लिए जाँचं</string>
   <string name="settings_gappstype_title">Google apps प्रकार</string>
   <string name="settings_gappstype_summary">पूर्ण, मिनी, सूक्ष्म और स्टॉक gapps पैकेज के बीच चुनने</string>
   <string name="gapps_type_full">पूरा पैकेज</string>

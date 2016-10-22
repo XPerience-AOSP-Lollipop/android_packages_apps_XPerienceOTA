@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
 <resources>
 
     <!-- GENERAL -->
-    <string name="app_name">Paranoid OTA</string>
+    <string name="app_name">XPerience OTA</string>
     <string name="title_checking">Verificando...</string>
     <string name="check_for_updates">Verificar</string>
     <string name="no_additional_info">Sem informações adicionais</string>
@@ -34,7 +34,7 @@
     <string name="rom_new_version">Nova atualização da ROM encontrada!</string>
     <string name="gapps_new_version">Nova atualização do Google apps encontrada!</string>
     <string name="no_updates">Nenhuma atualização do sistema encontrada</string>
-    <string name="system_update_found">Uma nova atualização do sistema foi encontrada e está pronta para download.\nPor favor, verifique as notificações que podem ter aparecido. Elas irão levá-lo ao Paranoid OTA de onde você será capaz de realizar o download e/ou instalar a atualização.\n\nAtualização(ões) encontrada(s):\n%1$s</string>
+    <string name="system_update_found">Uma nova atualização do sistema foi encontrada e está pronta para download.\nPor favor, verifique as notificações que podem ter aparecido. Elas irão levá-lo ao XPerience OTA de onde você será capaz de realizar o download e/ou instalar a atualização.\n\nAtualização(ões) encontrada(s):\n%1$s</string>
 
     <!-- SYSTEM -->
     <string name="system_title">Informação do sistema</string>
@@ -127,7 +127,7 @@
     <string name="settings_checktime_title">Frequência de verificação de atualizações</string>
     <string name="settings_checktime_summary">Especifique o tempo entre cada verificação de atualização</string>
     <string name="settings_checkgapps_title">Verificar por Google apps</string>
-    <string name="settings_checkgapps_summary">Verificar também por Google apps específicos da PA</string>
+    <string name="settings_checkgapps_summary">Verificar também por Google apps específicos da XPe</string>
     <string name="settings_gappstype_title">Tipo do Google apps</string>
     <string name="settings_gappstype_summary">Escolha entre full, mini, micro and stock gapps</string>
     <string name="gapps_type_full">Pacote Full</string>

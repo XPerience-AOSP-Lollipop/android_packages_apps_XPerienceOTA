@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">Überprüfen...</string>
   <string name="check_for_updates">Überprüfen</string>
   <string name="no_additional_info">Keine weiteren Informationen</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">Neue ROM-Aktualisierung gefunden!</string>
   <string name="gapps_new_version">Neues Google-Apps-Update gefunden!</string>
   <string name="no_updates">Kein(e) Systemupdate(s) gefunden</string>
-  <string name="system_update_found">Ein neues Systemupdate wurde gefunden.\nBitte prüfen Sie die Benachrichtigungen, die womöglich erschienen sind. Diese werden Sie zu der ParanoidOTA App führen, in welcher Sie dann die Aktualisierung(en) herunterladen und installieren können.\n\nAktualisierungen gefunden:\n%1$s</string>
+  <string name="system_update_found">Ein neues Systemupdate wurde gefunden.\nBitte prüfen Sie die Benachrichtigungen, die womöglich erschienen sind. Diese werden Sie zu der XPerienceOTA App führen, in welcher Sie dann die Aktualisierung(en) herunterladen und installieren können.\n\nAktualisierungen gefunden:\n%1$s</string>
   <string name="system_title">Systeminfo</string>
   <string name="system_rom">ROM-Version: %1$s</string>
   <string name="system_gapps">Google-Apps-Version: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">Häufigkeit der Update-Überprüfung</string>
   <string name="settings_checktime_summary">Bestimmen Sie die Zeit zwischen den Update-Überprüfungen</string>
   <string name="settings_checkgapps_title">Suche nach Google Apps</string>
-  <string name="settings_checkgapps_summary">Suche außerdem nach PA-spezifischen Google Apps</string>
+  <string name="settings_checkgapps_summary">Suche außerdem nach XPe-spezifischen Google Apps</string>
   <string name="settings_gappstype_title">Google Apps Typ</string>
   <string name="settings_gappstype_summary">Auswählen zwischen Full, Mini, Micro und Stock GApps Paket</string>
   <string name="gapps_type_full">Vollständiges Paket</string>

@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">Comprovant...</string>
   <string name="check_for_updates">Comprovar</string>
   <string name="no_additional_info">No hi ha informació addicional</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">S\'ha trobat una nova versió de la ROM!</string>
   <string name="gapps_new_version">S\'ha trobat una nova versió de les Google apps!</string>
   <string name="no_updates">No s\'han trobat actualitzacions del sistema</string>
-  <string name="system_update_found">S\'ha trobat una nova actualització i està preparada per descarregar.\nPer favor comprova les notificacions que han aparegut. Elles te duran a ParanoidOTA des d\'on podràs descarregar i/o instal·lar l\'actualització.\n\nActualització(ns) trobada:\n%1$s</string>
+  <string name="system_update_found">S\'ha trobat una nova actualització i està preparada per descarregar.\nPer favor comprova les notificacions que han aparegut. Elles te duran a XPerienceOTA des d\'on podràs descarregar i/o instal·lar l\'actualització.\n\nActualització(ns) trobada:\n%1$s</string>
   <string name="system_title">Informació del sistema</string>
   <string name="system_rom">Versió de ROM: %1$s</string>
   <string name="system_gapps">Versió de Google apps: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">Freqüència de comprovació d\'actualitzacions</string>
   <string name="settings_checktime_summary">Especifica el temps entre cada comprovació d\'actualitzacions</string>
   <string name="settings_checkgapps_title">Comprova les Google apps</string>
-  <string name="settings_checkgapps_summary">Comprova també les Google apps específiques de PA</string>
+  <string name="settings_checkgapps_summary">Comprova també les Google apps específiques de XPe</string>
   <string name="settings_gappstype_title">Tipus de Google apps</string>
   <string name="settings_gappstype_summary">Tria entre els paquets de gapps full, mini, micro i stock</string>
   <string name="gapps_type_full">Full package</string>

@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">Kontrollerar...</string>
   <string name="check_for_updates">Kontrollera</string>
   <string name="no_additional_info">Ingen ytterligare information</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">Ny ROM uppdatering funnen!</string>
   <string name="gapps_new_version">Ny Google apps uppdatering funnen!</string>
   <string name="no_updates">Inga systemuppdateringar funna</string>
-  <string name="system_update_found">En ny systemuppdatering har hittats och är redo att laddas ner.\nVar god kontrollera eventuell notifiering. De kommer leda dig till ParanoidOTA där du kan ladda ner och/eller installera uppdateringen.\n\nUppdatering(ar) hittade:\n%1$s</string>
+  <string name="system_update_found">En ny systemuppdatering har hittats och är redo att laddas ner.\nVar god kontrollera eventuell notifiering. De kommer leda dig till XPerienceOTA där du kan ladda ner och/eller installera uppdateringen.\n\nUppdatering(ar) hittade:\n%1$s</string>
   <string name="system_title">Systeminformation</string>
   <string name="system_rom">ROM-version: %1$s</string>
   <string name="system_gapps">Google apps version: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">Uppdatera kontroll frekvens</string>
   <string name="settings_checktime_summary">Ange tiden mellan varje uppdaterings kontroll</string>
   <string name="settings_checkgapps_title">Sök efter Google apps</string>
-  <string name="settings_checkgapps_summary">Sök också efter PA specifika Google apps</string>
+  <string name="settings_checkgapps_summary">Sök också efter XPe specifika Google apps</string>
   <string name="settings_gappstype_title">Google apps typ</string>
   <string name="settings_gappstype_summary">Välj mellan helt, mini, micro och stock gapps paket</string>
   <string name="gapps_type_full">Helt paket</string>

@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">확인중...</string>
   <string name="check_for_updates">확인</string>
   <string name="no_additional_info">추가 정보 없음</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">새 ROM 업데이트 발견!</string>
   <string name="gapps_new_version">새로운 Google apps 업데이트를 발견!</string>
   <string name="no_updates">시스템 업데이트가 없습니다</string>
-  <string name="system_update_found">새로운 시스템 업데이트를 다운로드할 준비가 되었습니다.\n알림을 확인하여 주시기 바랍니다. 알림을 터치하면 Paranoid OTA로 이동하여 업데이트를 다운로드하고 설치할 수 있습니다.\n\n 업데이트 발견됨:\n%1$s</string>
+  <string name="system_update_found">새로운 시스템 업데이트를 다운로드할 준비가 되었습니다.\n알림을 확인하여 주시기 바랍니다. 알림을 터치하면 XPerience OTA로 이동하여 업데이트를 다운로드하고 설치할 수 있습니다.\n\n 업데이트 발견됨:\n%1$s</string>
   <string name="system_title">시스템 정보</string>
   <string name="system_rom">ROM 버전: %1$s</string>
   <string name="system_gapps">Google apps 버전: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">업데이트 확인 빈도</string>
   <string name="settings_checktime_summary">업데이트를 확인할 주기를 선택합니다</string>
   <string name="settings_checkgapps_title">Google Apps 확인</string>
-  <string name="settings_checkgapps_summary">PA용 Google Apps 업데이트도 확입합니다.</string>
+  <string name="settings_checkgapps_summary">XPe용 Google Apps 업데이트도 확입합니다.</string>
   <string name="settings_gappstype_title">Google Apps 종류</string>
   <string name="settings_gappstype_summary">풀, 미니, 마이크로, 순정 gapps 패키지 중 하나를 선택하십시오</string>
   <string name="gapps_type_full">풀 패키지</string>

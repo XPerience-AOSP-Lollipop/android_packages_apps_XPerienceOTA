@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">Tiek veikta pārbauda...</string>
   <string name="check_for_updates">Pārbaudīt</string>
   <string name="no_additional_info">Nav pieejama papildus informācija</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">Atrasts jauns ROM atjauninājums!</string>
   <string name="gapps_new_version">Atrasts jauns Google aplikāciju atjauninājums!</string>
   <string name="no_updates">Nav atrasti sistēmas atjauninājumi</string>
-  <string name="system_update_found">Atrasts jauns sistēmas atjauninājums un ir gatavs lejupielādei.\nLūdzu pārbaudiet paziņojumus kas varētu būt parādījušies. Tas jūs aizvedīs uz ParanoidOTA no kurienes jūs varēsiet lejupielādēt un/vai ieinstalēt atjauninājumu.\n\nAtjauninājums(i) atrasti:\n%1$s</string>
+  <string name="system_update_found">Atrasts jauns sistēmas atjauninājums un ir gatavs lejupielādei.\nLūdzu pārbaudiet paziņojumus kas varētu būt parādījušies. Tas jūs aizvedīs uz XPerienceOTA no kurienes jūs varēsiet lejupielādēt un/vai ieinstalēt atjauninājumu.\n\nAtjauninājums(i) atrasti:\n%1$s</string>
   <string name="system_title">Sistēmas info</string>
   <string name="system_rom">ROM versija: %1$s</string>
   <string name="system_gapps">Google aplikāciju versija: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">Atjauninājumu pārbaudes biežums</string>
   <string name="settings_checktime_summary">Noteikt laiku starp katru atjauninājumu pārbaudi</string>
   <string name="settings_checkgapps_title">Pārbaudīt pēc Google aplikācijām</string>
-  <string name="settings_checkgapps_summary">Pārbaudīt arī pēc PA specifiskām Google aplikācijām</string>
+  <string name="settings_checkgapps_summary">Pārbaudīt arī pēc XPe specifiskām Google aplikācijām</string>
   <string name="settings_gappstype_title">Google aplikāciju veids</string>
   <string name="settings_gappstype_summary">Izvēlieties starp pilnajām, mini, micro un standarta gapps pakām</string>
   <string name="gapps_type_full">Pilnā paka</string>

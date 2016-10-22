@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">Έλεγχος...</string>
   <string name="check_for_updates">Ελέγξτε</string>
   <string name="no_additional_info">Καμία πρόσθετη πληροφορία</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">Νέα ενημέρωση της ROM βρέθηκε!</string>
   <string name="gapps_new_version">Νέα ενημέρωση των εφαρμογών Google βρέθηκε!</string>
   <string name="no_updates">Δεν βρέθηκε καμία ενημέρωση συστήματος</string>
-  <string name="system_update_found">Μία νέα ενημέρωση συστήματος βρέθηκε και είναι έτοιμη για λήψη.\nΠαρακαλούμε ελέγξτε τις ειδοποιήσεις που έχουν πιθανόν εμφανιστεί. Θα σας οδηγήσουν στο ParanoidOTA από όπου θα μπορείτε να κατεβάσετε και/ή να εγκαταστήσετε την ενημέρωση.\n\nΕνημερώση(εις) που βρέθηκε(αν):\n%1$s</string>
+  <string name="system_update_found">Μία νέα ενημέρωση συστήματος βρέθηκε και είναι έτοιμη για λήψη.\nΠαρακαλούμε ελέγξτε τις ειδοποιήσεις που έχουν πιθανόν εμφανιστεί. Θα σας οδηγήσουν στο XPerienceOTA από όπου θα μπορείτε να κατεβάσετε και/ή να εγκαταστήσετε την ενημέρωση.\n\nΕνημερώση(εις) που βρέθηκε(αν):\n%1$s</string>
   <string name="system_title">Πληροφορίες συστήματος</string>
   <string name="system_rom">Έκδοση ROM: %1$s</string>
   <string name="system_gapps">Έκδοση Εφαρμογών Google: %1$s %2$s</string>
@@ -115,7 +115,7 @@
   <string name="settings_checktime_title">Συνχότητα ελέγχου για ενημερώσεις</string>
   <string name="settings_checktime_summary">Καθορίστε το χρονικό διάστημα μεταξύ κάθε έλεγχος ενημερωμένων εκδόσεων</string>
   <string name="settings_checkgapps_title">Έλεγχος για εφαρμογές Google</string>
-  <string name="settings_checkgapps_summary">Ελέγξτε επίσης για εφαρμογές Google της PA</string>
+  <string name="settings_checkgapps_summary">Ελέγξτε επίσης για εφαρμογές Google της XPe</string>
   <string name="settings_gappstype_title">Τύπος εφαρμογών Google</string>
   <string name="settings_gappstype_summary">Επιλέξτε ανάμεσα σε πλήρη, μίνι, micro και stock εφαρμογές Google</string>
   <string name="gapps_type_full">Πλήρες πακέτο</string>

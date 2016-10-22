@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid päivittäjä</string>
+  <string name="app_name">XPerience päivittäjä</string>
   <string name="title_checking">Tarkistetaan...</string>
   <string name="check_for_updates">Tarkista</string>
   <string name="no_additional_info">Ei lisätietoja</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">Uusi ROM päivitys löytyi!</string>
   <string name="gapps_new_version">Uusi Google apps päivitys löytyi!</string>
   <string name="no_updates">Ei uusia päivityksiä</string>
-  <string name="system_update_found">Uusi järjestelmäpäivitys löytyi ja on valmiina ladattavaksi.\nTarkista mahdolliset ilmoitukset. Ne ohjaavat sinut Paranoid päivityksiin, mistä voit ladata ja/tai asentaa päivityksen. \n\nPäivityksiä löytyi:\n%1$s</string>
+  <string name="system_update_found">Uusi järjestelmäpäivitys löytyi ja on valmiina ladattavaksi.\nTarkista mahdolliset ilmoitukset. Ne ohjaavat sinut XPerience päivityksiin, mistä voit ladata ja/tai asentaa päivityksen. \n\nPäivityksiä löytyi:\n%1$s</string>
   <string name="system_title">Järjestelmän tiedot</string>
   <string name="system_rom">ROM versio: %1$s</string>
   <string name="system_gapps">Google sovellusten versio: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">Päivityksien tarkistustiheys</string>
   <string name="settings_checktime_summary">Määritä aika päivityksien tarkastuksen välillä</string>
   <string name="settings_checkgapps_title">Etsi Googlen ohjelmapaketteja</string>
-  <string name="settings_checkgapps_summary">Etsi myös PA:n omia Google ohjelmapaketteja</string>
+  <string name="settings_checkgapps_summary">Etsi myös XPe:n omia Google ohjelmapaketteja</string>
   <string name="settings_gappstype_title">Googlen ohjelmien tyyppi</string>
   <string name="settings_gappstype_summary">Valitse joko full, mini, micro tai stock ohjelmapaketti</string>
   <string name="gapps_type_full">Full-paketti</string>

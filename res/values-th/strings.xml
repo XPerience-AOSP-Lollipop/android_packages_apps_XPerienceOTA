@@ -3,23 +3,23 @@
 <!--
   Copyright 2014 ParanoidAndroid Project
 
-  This file is part of Paranoid OTA.
+  This file is part of XPerience OTA.
 
-  Paranoid OTA is free software: you can redistribute it and/or modify
+  XPerience OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  Paranoid OTA is distributed in the hope that it will be useful,
+  XPerience OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
+  along with XPerience OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Paranoid OTA</string>
+  <string name="app_name">XPerience OTA</string>
   <string name="title_checking">ตรวจสอบ...</string>
   <string name="check_for_updates">ตรวจ</string>
   <string name="no_additional_info">ไม่มีข้อมูลเพิ่มเติม</string>
@@ -32,7 +32,7 @@
   <string name="rom_new_version">มีรุ่นของรอมที่ใหม่กว่า!</string>
   <string name="gapps_new_version">มีรุ่นของกูเกิ้ลแอพที่ใหม่กว่า!</string>
   <string name="no_updates">ไม่พบการอัพเดทของระบบ</string>
-  <string name="system_update_found">มีการปรับปรุงระบบใหม่ \nกรุณาตรวจสอบการเตือนที่อาจปรากฎขึ้น ซึ่งจะพาคุณไปดาวน์โหลด และ/หรือติดตั้ง ParanoidOTA \n\n.\n\nUpdate(s) found:\n%1$s</string>
+  <string name="system_update_found">มีการปรับปรุงระบบใหม่ \nกรุณาตรวจสอบการเตือนที่อาจปรากฎขึ้น ซึ่งจะพาคุณไปดาวน์โหลด และ/หรือติดตั้ง XPerienceOTA \n\n.\n\nUpdate(s) found:\n%1$s</string>
   <string name="system_title">ข้อมูลระบบ</string>
   <string name="system_rom">รุ่นรอม: %1$s</string>
   <string name="system_gapps">Google apps รุ่น: %1$s %2$s</string>
@@ -113,7 +113,7 @@
   <string name="settings_checktime_title">ปรับปรุงความถี่ในการตรวจสอบ</string>
   <string name="settings_checktime_summary">ระบุระยะเวลาระหว่างการตรวจสอบการปรับปรุงแต่ละครั้ง</string>
   <string name="settings_checkgapps_title">ตรวจสอบ Google apps</string>
-  <string name="settings_checkgapps_summary">ตรวจสอบ Google apps รุ่นปรับปรุงเฉพาะ PA</string>
+  <string name="settings_checkgapps_summary">ตรวจสอบ Google apps รุ่นปรับปรุงเฉพาะ XPe</string>
   <string name="settings_gappstype_title">ชนิด Google apps</string>
   <string name="settings_gappstype_summary">เลือกระหว่างแพคเกจเต็ม, มินิ, ไมโคร และ  stock gapps</string>
   <string name="gapps_type_full">แพคเกจเต็มรูปแบบ</string>
