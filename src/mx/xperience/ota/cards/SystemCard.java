@@ -26,14 +26,13 @@ import android.util.AttributeSet;
 import android.widget.TextView;
 
 import mx.xperience.ota.R;
-import mx.xperience.ota.updater.GappsUpdater;
 import mx.xperience.ota.updater.RomUpdater;
 import mx.xperience.ota.widget.Card;
 
 public class SystemCard extends Card {
 
     public SystemCard(Context context, AttributeSet attrs, RomUpdater romUpdater,
-            GappsUpdater gappsUpdater, Bundle savedInstanceState) {
+            Bundle savedInstanceState) {
         super(context, attrs, savedInstanceState);
 
         setTitle(R.string.system_title);
@@ -44,10 +43,6 @@ public class SystemCard extends Card {
         TextView romView = (TextView) findLayoutViewById(R.id.rom);
         romView.setText(res.getString(R.string.system_rom,
                 romUpdater.getVersion().toString(false)));
-
-        TextView gappsView = (TextView) findLayoutViewById(R.id.gapps);
-        gappsView.setText(res.getString(R.string.system_gapps, gappsUpdater.getType(), gappsUpdater
-                .getVersion().toString(false)));
     }
 
     @Override

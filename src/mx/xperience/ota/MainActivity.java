@@ -57,7 +57,6 @@ import mx.xperience.ota.helpers.DownloadHelper;
 import mx.xperience.ota.helpers.DownloadHelper.DownloadCallback;
 import mx.xperience.ota.helpers.RebootHelper;
 import mx.xperience.ota.helpers.RecoveryHelper;
-import mx.xperience.ota.updater.GappsUpdater;
 import mx.xperience.ota.updater.RomUpdater;
 import mx.xperience.ota.updater.Updater;
 import mx.xperience.ota.updater.Updater.PackageInfo;
@@ -70,8 +69,8 @@ import java.util.List;
 public class MainActivity extends Activity implements UpdaterListener, DownloadCallback,
         OnItemClickListener {
 
-    private static final String CHANGELOG = "https://plus.google.com/+ParanoidAndroidCorner/posts";
-    private static final String GOOGLEPLUS = "https://plus.google.com/communities/112514149478109338346";
+    private static final String CHANGELOG = "https://github.com/Klozz/XPerience-9.0.1_rX_Changelogs/commits/master";
+    private static final String GOOGLEPLUS = "https://plus.google.com/communities/108607836733381283261";
     private static final String STATE = "STATE";
 
     public static final int STATE_UPDATES = 0;
@@ -92,7 +91,6 @@ public class MainActivity extends Activity implements UpdaterListener, DownloadC
     private InstallCard mInstallCard;
 
     private RomUpdater mRomUpdater;
-    private GappsUpdater mGappsUpdater;
     private NotificationInfo mNotificationInfo;
 
     private LinearLayout mCardsLayout;
@@ -197,8 +195,6 @@ public class MainActivity extends Activity implements UpdaterListener, DownloadC
 
         mRomUpdater = new RomUpdater(this, false);
         mRomUpdater.addUpdaterListener(this);
-        mGappsUpdater = new GappsUpdater(this, false);
-        mGappsUpdater.addUpdaterListener(this);
 
         DownloadHelper.init(this, this);
 
@@ -216,7 +212,6 @@ public class MainActivity extends Activity implements UpdaterListener, DownloadC
                     checkUpdates();
                 } else {
                     mRomUpdater.setLastUpdates(mNotificationInfo.mPackageInfosRom);
-                    mGappsUpdater.setLastUpdates(mNotificationInfo.mPackageInfosGapps);
                 }
             } else {
                 checkUpdates();
@@ -277,7 +272,6 @@ public class MainActivity extends Activity implements UpdaterListener, DownloadC
 
     public void checkUpdates() {
         mRomUpdater.check();
-        mGappsUpdater.check();
     }
 
     @Override
@@ -372,11 +366,11 @@ public class MainActivity extends Activity implements UpdaterListener, DownloadC
         switch (state) {
             case STATE_UPDATES:
                 if (mSystemCard == null) {
-                    mSystemCard = new SystemCard(mContext, null, mRomUpdater, mGappsUpdater,
+                    mSystemCard = new SystemCard(mContext, null, mRomUpdater,
                             mSavedInstanceState);
                 }
                 if (mUpdatesCard == null) {
-                    mUpdatesCard = new UpdatesCard(mContext, null, mRomUpdater, mGappsUpdater,
+                    mUpdatesCard = new UpdatesCard(mContext, null, mRomUpdater,
                             mSavedInstanceState);
                 }
                 addCards(new Card[] {

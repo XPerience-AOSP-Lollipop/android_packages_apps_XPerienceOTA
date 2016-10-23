@@ -29,7 +29,6 @@ import android.widget.TextView;
 
 import mx.xperience.ota.R;
 import mx.xperience.ota.Utils;
-import mx.xperience.ota.updater.GappsUpdater;
 import mx.xperience.ota.updater.RomUpdater;
 import mx.xperience.ota.updater.Updater.PackageInfo;
 import mx.xperience.ota.updater.Updater.UpdaterListener;
@@ -37,7 +36,6 @@ import mx.xperience.ota.updater.Updater.UpdaterListener;
 public class SystemActivity extends Activity implements UpdaterListener {
 
     private RomUpdater mRomUpdater;
-    private GappsUpdater mGappsUpdater;
 
     private PackageInfo mRom;
     private PackageInfo mGapps;
@@ -64,7 +62,6 @@ public class SystemActivity extends Activity implements UpdaterListener {
             @Override
             public void onClick(View v) {
                 mRomUpdater.check(true);
-                mGappsUpdater.check(true);
             }
 
         });
@@ -74,11 +71,8 @@ public class SystemActivity extends Activity implements UpdaterListener {
 
         mRomUpdater = new RomUpdater(this, true);
         mRomUpdater.addUpdaterListener(this);
-        mGappsUpdater = new GappsUpdater(this, true);
-        mGappsUpdater.addUpdaterListener(this);
 
         mRomUpdater.check(true);
-        mGappsUpdater.check(true);
     }
 
     @Override
@@ -104,14 +98,14 @@ public class SystemActivity extends Activity implements UpdaterListener {
             }
         }
         Resources res = getResources();
-        boolean checking = mRomUpdater.isScanning() || mGappsUpdater.isScanning();
+        boolean checking = mRomUpdater.isScanning();
         if (checking) {
             mTitle.setText(R.string.all_up_to_date);
             mMessage.setText(R.string.rom_scanning);
             mButton.setVisibility(View.GONE);
         } else {
             mButton.setVisibility(View.VISIBLE);
-            if (mRom != null && mGapps != null) {
+            if (mRom != null ) {
                 mTitle.setText(R.string.rom_gapps_new_version);
                 mMessage.setText(res.getString(R.string.system_update_found,
                         new Object[] {
@@ -122,12 +116,6 @@ public class SystemActivity extends Activity implements UpdaterListener {
                 mMessage.setText(res.getString(R.string.system_update_found,
                         new Object[] {
                             mRom.getFilename()
-                        }));
-            } else if (mGapps != null) {
-                mTitle.setText(R.string.gapps_new_version);
-                mMessage.setText(res.getString(R.string.system_update_found,
-                        new Object[] {
-                            mGapps.getFilename()
                         }));
             } else {
                 mTitle.setText(R.string.all_up_to_date);

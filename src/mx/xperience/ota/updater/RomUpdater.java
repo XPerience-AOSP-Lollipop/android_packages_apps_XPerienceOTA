@@ -25,6 +25,7 @@ import mx.xperience.ota.R;
 import mx.xperience.ota.Utils;
 import mx.xperience.ota.Version;
 import mx.xperience.ota.updater.server.BasketServer;
+import mx.xperience.ota.updater.server.PaServer;
 
 public class RomUpdater extends Updater {
 
@@ -43,6 +44,7 @@ public class RomUpdater extends Updater {
 
     public RomUpdater(Context context, boolean fromAlarm) {
         super(context, new Server[] {
+                new PaServer(true),
                 new BasketServer(true)
         }, fromAlarm);
     }
